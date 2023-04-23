@@ -4,7 +4,7 @@ Tìm kiếm link Fshare cho **Synology Download Station**
 
 Pack to dlm
 ```bash
-tar -zcf fshare.dlm INFO search.php
+tar -zcf fshare.dlm INFO search.php FshareApi.php
 ```
 
 ### Install to plugin Download Station
