@@ -1,0 +1,10 @@
+{
+    "name": "fshare",
+    "displayname": "Fshare",
+    "description": "Fshare search plugin.",
+    "version": "0.1",
+    "site": "https://quanna.dev",
+    "type": "search",
+    "module": "search.php",
+    "class": "FshareDlsSearchPlugin"
+}
