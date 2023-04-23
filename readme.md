@@ -13,5 +13,6 @@ tar -zcf fshare.dlm INFO search.php
 3. Cài đặt file `fshare.dlm` Search và download file.
 
 ### Todo
-1. [] Theo dõi 1 folder bất kỳ và download file mới.
-2. [] Lấy danh sách file từ link folder. Tạo download task
+1. [x] Tìm kiến link
+2. [ ] Theo dõi 1 folder bất kỳ và download file mới.
+3. [ ] Lấy danh sách file từ link folder. Tạo download task
