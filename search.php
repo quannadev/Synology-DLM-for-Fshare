@@ -20,7 +20,7 @@ class FshareDlsSearchPlugin
      */
     public function prepare($curl, $query)
     {
-        $searchurl = "https://api.timfshare.com/v1/string-query-search?query=%s";
+        $searchurl = "https://timfshare.com/api/v1/string-query-search?query=%s";
         $searchurl = sprintf($searchurl, urlencode($query));
         curl_setopt($curl, CURLOPT_URL, $searchurl);
         curl_setopt($curl, CURLOPT_CUSTOMREQUEST, "POST");
