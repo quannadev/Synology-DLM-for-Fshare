@@ -2,7 +2,7 @@
     "name": "fshare",
     "displayname": "Fshare",
     "description": "Fshare search plugin.",
-    "version": "0.1",
+    "version": "0.2",
     "site": "https://quanna.dev",
     "type": "search",
     "module": "search.php",
